@@ -15,7 +15,8 @@
   - [Calculate the predicted price for diamond](#calculate)
   - [Make a recommendation](#recommendation)
 - [Project Submission](#submission)
-
+- [Results](#results)
+- [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ### Project Overview <a name="project_overview"></a>
@@ -73,3 +74,9 @@ To complete this project, you will be submitting a file in pdf format that conta
 
 #### Step 3 - The Recommendation: 
 - What bid do you recommend for the jewelry company? Please explain how you arrived at that number.
+
+### Results: <a name="results"></a>
+All the results(including graphs) are in the <a href="https://github.com/Abhishek20182/Predicting-Diamond-Prices/blob/main/Project%201%20.pdf">Project 1.pdf</a> File.
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Udacity to providing this data. You can find the Licensing for the data and other descriptive information at Udacity Page.
